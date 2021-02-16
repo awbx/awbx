@@ -28,7 +28,7 @@ Hi, I'm [Abdelhadi Sabani](https://github.com/awbx), a self-taught Web Developer
 
 <br />
 
-<a href="https://github.com/awbx">
+<a href="https://github-readme-stats.vercel.app/api?username=awbx&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=awbx&count_private=true&show_icons=true" alt="Abdelhadi's github stats" />
 </a>
 
