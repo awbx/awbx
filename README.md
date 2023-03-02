@@ -24,7 +24,7 @@
 <br />
 <br />
 
-Hi, I'm [Abdelhadi Sabani](https://github.com/awbx), a self-taught Web Developer 🚀 from Morocco 🇲🇦.
+As a backend developer and computer science student at 1337 (Branch from #42Network), I am passionate about the art of low-level programming. I believe that the key to creating great applications is to write clean, efficient code that brings ideas to life in new and exciting ways. Whether I'm working in C, C++, Python, or JS(TS), I strive to create elegant solutions that optimize performance and enhance user experience. With an insatiable thirst for knowledge and a knack for tackling complex challenges, I am always looking for new opportunities to expand my skillset and push the boundaries of what's possible in the world of technology.
 
 <br />
 
